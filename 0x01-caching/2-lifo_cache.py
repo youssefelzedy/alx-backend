@@ -5,7 +5,7 @@
 from base_caching import BaseCaching
 
 
-class FIFOCache(BaseCaching):
+class LIFOCache(BaseCaching):
     '''Caching system
     '''
 
